@@ -13,16 +13,18 @@ let subjects = [
             { name: "Load and support", completed: false }
         ]
     },
-    {
-        subjectName: "Ce sayka mam",
-        topics: [
-            { name: "Moment of inertia", completed: false },
-            { name: "Centroid", completed: false },
-            { name: "Product of inertia", completed: false },
-            { name: "Plane motion", completed: false },
-            { name: "Impulse and momentum", completed: false }
-        ]
-    },
+   {
+    subjectName: "Ce sayka mam",
+    topics: [
+        { name: "Moment of inertia", completed: false },
+        { name: "Centroid", completed: false },
+        { name: "Product of inertia", completed: false },
+        { name: "Plane motion", completed: false },
+        { name: "Impulse and momentum", completed: false },
+        { name: "Work power and energy", completed: false }  // New topic added
+    ]
+}
+
     {
         subjectName: "Physics",
         topics: [
